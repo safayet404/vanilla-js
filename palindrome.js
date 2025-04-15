@@ -1,4 +1,4 @@
-const str = "hello"
+const str = 121
 
 let reversed = ''
 
