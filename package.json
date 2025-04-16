@@ -1,0 +1,23 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/safayet404/vanilla-js#readme",
+  "bugs": {
+    "url": "https://github.com/safayet404/vanilla-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safayet404/vanilla-js.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
